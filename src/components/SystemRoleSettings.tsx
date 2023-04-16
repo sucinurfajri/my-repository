@@ -46,7 +46,7 @@ export default (props: Props) => {
         <div>
           <div class="fi gap-1 op-50 dark:op-60">
             <IconEnv />
-            <span>System Role:</span>
+            <span>Peran Asisten Bot: </span>
           </div>
           <p class="my-2 leading-normal text-sm op-50 dark:op-60">Berikan instruksi kepada Asisten Bot dan tetapkan perilaku yang diinginkan dari asisten tersebut.</p>
           <div>
